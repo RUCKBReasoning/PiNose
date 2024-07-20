@@ -2,7 +2,7 @@
 This repo is the official implementation of the paper "Transferable and Efficient Non-Factual Content Detection via Probe Training with Offline Consistency Checking".
 
 This repository contains two main directories: `offline_consistency` and `llm_probe`. Each directory contains scripts for different stages of the data processing and model training pipeline.  
-The relevant data and checkpoint can be downloaded from [here](https://drive.google.com/drive/folders/14BvCjyOgR02ytLAuUWfuiydbgmW6iYtL?usp=sharing).
+The relevant data and checkpoint can be downloaded from [here](https://drive.google.com/file/d/1soYrfWUFDw8oZNjRud-bCU4BEx1Y9m5h/view?usp=drive_link).
 
 ## offline_consistency
 
